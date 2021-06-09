@@ -25,4 +25,4 @@ ________________________________________________________________________________
 _______________________________________________________________________________________
 
 ## Demo
-[![djbooker demo](https://i.imgur.com/AmbJ29V.png)](https://youtu.be/OCFuPYOnDBk)
+[![djbooker demo](https://i.imgur.com/AmbJ29V.png)](https://youtu.be/OCFuPYOnDBk "DJ Booker - Click to Watch!")
