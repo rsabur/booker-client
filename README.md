@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 * Backend
     * Rails 5 API
-    * Postgres database
+    * PostgresQL database
 
 ## Core Features
 * A user can login to their existing account or signup for a new account
