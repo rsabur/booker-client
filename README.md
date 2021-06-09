@@ -22,6 +22,10 @@ ________________________________________________________________________________
 * From DJ show page, a user can view information about the selected DJ and listen to their music from Spotify 
 * From DJ show page, a user can book a DJ for an upcoming event
 * On a profile page, users can edit and delete their profile
+
+## Start App
+To start client side DJ Booker, enter the following in the command line:
+* npm start
 _______________________________________________________________________________________
 
 ## Demo
