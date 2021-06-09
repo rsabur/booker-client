@@ -25,5 +25,4 @@ ________________________________________________________________________________
 _______________________________________________________________________________________
 
 ## Demo
-[![djbooker demo](https://youtu.be/OCFuPYOnDBk)]
-(https://youtu.be/OCFuPYOnDBk)
+[![djbooker demo](https://youtu.be/OCFuPYOnDBk)](https://youtu.be/OCFuPYOnDBk)
